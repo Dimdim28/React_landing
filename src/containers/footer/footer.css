@@ -30,6 +30,13 @@
   padding: 1rem;
   border: 1px solid #fff;
   margin-bottom: 10rem;
+  transition: 0.5s;
+}
+
+.gpt3__footer-btn p:hover{
+  color:var( --color-subtext);
+  border-color: var(--color-subtext);
+  box-shadow: 0 0 10px var(--color-subtext);
 }
 
 .gpt3__footer-btn p {
@@ -98,6 +105,11 @@
     cursor: pointer;
 }
 
+.gpt3__footer-links_div p:hover{
+  transition: 0.5s;
+  color: #FF4820;
+
+}
 .gpt3__footer-copyright {
     margin-top: 2rem;
     text-align: center;
