@@ -3,9 +3,33 @@
     display: flex;
     justify-content: space-between;
     flex-direction: row;
+    position: relative;
+}
+
+.gpt3__features-gradient {
+    position: absolute;
+    width: 777px;
+    height:777px;
+    left: -444px;
+    top: -60px;
+    z-index: 1;
+    background:-moz-radial-gradient(circle at 50% 50%, rgba(7, 50, 95, 1) 0%, rgba(4, 12, 24, 1) 72%);
+
+    /* safari 5.1+,chrome 10+ */
+    background:-webkit-radial-gradient(circle at 50% 50%, rgba(7, 50, 95, 1) 0%, rgba(4, 12, 24, 1) 72%);
+
+    /* opera 11.10+ */
+    background:-o-radial-gradient(circle at 50% 50%, rgba(7, 50, 95, 1) 0%, rgba(4, 12, 24, 1) 72%);
+
+    /* ie 10+ */
+    background:-ms-radial-gradient(circle at 50% 50%, rgba(7, 50, 95, 1) 0%, rgba(4, 12, 24, 1) 72%);
+
+    /* global 92%+ browsers support */
+    background:radial-gradient(circle at 50% 50%, rgba(7, 50, 95, 1) 0%, rgba(4, 12, 24, 1) 72%);
 }
 
 .gpt3__features-heading {
+    z-index: 2;
     flex: 1;
     display: flex;
     justify-content: flex-start;
