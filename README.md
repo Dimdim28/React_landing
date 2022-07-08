@@ -1,4 +1,4 @@
-This is a responsive modern UI-UX website created with using REACT)<br/>
+This is a responsive modern UI-UX website created with using REACT in BEM methodology)<br/>
 [Link on the hosted site](https://gleaming-kringle-930fca.netlify.app)<br/>
 Screenshots:
 ![image](https://user-images.githubusercontent.com/89345760/177188240-0eb1e27c-5308-4ac7-afd2-f9485caeb61f.png)
