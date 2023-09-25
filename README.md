@@ -1,5 +1,11 @@
-This is a responsive modern UI-UX website created with using REACT in BEM methodology)<br/>
+Website created with using REACT in BEM methodology, I`ve decided to try this instead of CSS modules, this was on of my first React applications.<br/>
+Tech stack:
+- React
+- Animate.css
+- React-icons
+  
 [Link on the hosted site](https://gleaming-kringle-930fca.netlify.app)<br/>
+
 Screenshots:
 ![image](https://user-images.githubusercontent.com/89345760/177188240-0eb1e27c-5308-4ac7-afd2-f9485caeb61f.png)
 ![image](https://user-images.githubusercontent.com/89345760/177188312-53c08a2b-df9d-49b6-90b0-354dc7107533.png)
